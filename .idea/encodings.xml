@@ -2,5 +2,23 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/character/IStringBuffer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/character/MyStringBuffer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/character/TestChar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/charactor/ADAPHero.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/charactor/ADHero.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/charactor/APHero.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/charactor/GiantDragon.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/charactor/Support.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/collection/HeroNode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/collection/MyHashMap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/collection/MyStack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/collection/Node.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/collection/SortCompare.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/collection/TestCollection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/generic/MyStack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/j2se/generic/TestGeneric.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/zhangqiwu_study/HelloWorld.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>
