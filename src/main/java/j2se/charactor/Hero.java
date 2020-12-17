@@ -12,4 +12,8 @@ public class Hero {
         System.out.println("初始化 copyright");
         copyright = "版权由Riot Games公司所有";
     }
+
+    public String toString(){
+        return name;
+    }
 }
