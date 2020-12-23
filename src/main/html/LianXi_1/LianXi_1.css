@@ -1,0 +1,19 @@
+.title{
+    display: inline-block;
+    width: 120px;
+    margin-bottom: 5px;
+    border: darkgray solid 1px;
+}
+div{
+    width: 650px;
+    text-align: center;
+}
+button{
+    width: 80px;
+    height: 30px;
+}
+textarea{
+    width: 650px;
+    height: 150px;
+    margin-top: 20px;
+}

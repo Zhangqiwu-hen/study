@@ -1,0 +1,16 @@
+table {
+    width: 350px;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: #000000 solid 1px;
+}
+
+td {
+    text-align: center;
+}
+
+td.left {
+    width: 35%;
+}
